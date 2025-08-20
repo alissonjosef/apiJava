@@ -1,0 +1,3 @@
+2025-08-19 23:10:15.036034-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM DESPESA ID [*]CATEGORIA"; SQL statement:
+SELECT * FROM DESPESA ID CATEGORIA [42000-232]
